@@ -1,3 +1,3 @@
 @echo off
-"C:\Users\YOUR-PATH\Python\Python312\python.exe" "C:\Users\YOUR-PATH\Python\Python312\Scripts\vimeo_upload.py"
+"PATH_TO_YOUR_PYTHON_EXE" "PATH_TO_YOUR_VIMEO_UPLOAD_SCRIPT"
 pause
